@@ -1,0 +1,24 @@
+# Core Deep Learning & Data Science
+tensorflow==2.19.0
+keras==3.4.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+
+# Image Processing
+Pillow==10.4.0
+opencv-python-headless==4.10.0.84
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Web App Framework
+streamlit==1.39.0
+
+# Utility Libraries
+protobuf==5.26.1
+h5py==3.11.0
+
+# Optional: Progress bars and logging
+tqdm==4.66.5
